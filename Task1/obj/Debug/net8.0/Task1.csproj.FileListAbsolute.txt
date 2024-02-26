@@ -12,3 +12,4 @@ C:\Users\Digur\OneDrive\Рабочий стол\ДЗ\C#\Sem1\Task1\obj\Debug\net
 C:\Users\Digur\OneDrive\Рабочий стол\ДЗ\C#\Sem1\Task1\obj\Debug\net8.0\Task1.pdb
 C:\Users\Digur\OneDrive\Рабочий стол\ДЗ\C#\Sem1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\Users\Digur\OneDrive\Рабочий стол\ДЗ\C#\Sem1\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\Users\Digur\OneDrive\Рабочий стол\ДЗ\C#\Sem1\Task1\obj\Debug\net8.0\Task1.sourcelink.json
